@@ -1,5 +1,5 @@
 # Profil Mahasiswa
-A new Flutter project.
+Flutter project.
 
 # 🚀About Me
 Nama    : Muzakki Fadlillah Gunadi<br>
